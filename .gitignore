@@ -1,0 +1,14 @@
+*.pyc
+*.swp
+.lock/
+/log
+/config
+.idea/
+.lock/
+tags
+runner.log
+taurus_yibuhttp_bkp/
+taurus/fuair/zhengquedeyuanban.py
+third/
+mysession.vim
+flume_soft_ln
